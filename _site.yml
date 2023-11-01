@@ -1,0 +1,20 @@
+name: "tshidiso-mofokeng"
+navbar:
+  title: "Tshidiso Mofokeng"
+  type: inverse
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Content"
+      href: content.html
+    - text: "Contact Me"
+      href: contact.html
+    - text: "More"
+      icon: fa-gear
+      menu:
+        - text: "Page A"
+          href: page-a.html
+        - text: "---------"
+        - text: "Page B"
+          href: page-b.html
+        

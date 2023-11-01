@@ -1,0 +1,8 @@
+---
+title: "Contact information"
+output:   
+  html_document: 
+    df_print: paged
+---
+
+You can contact me via email at tshidiso.b.m@gmail.com
