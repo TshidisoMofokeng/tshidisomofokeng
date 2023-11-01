@@ -1,7 +1,18 @@
 ---
-title: "My Website"
+title: Tshidiso Mofokeng
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FEVK27LWND"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FEVK27LWND');
+</script>
+
+# About me
 
 Tshidiso is an aspiring economist who currently holds a undergraduate degree at the University of Pretoria in BCom Econometrics. He has also recently completed a 10 week exchange student program at Fordham University in Emerging Markets and Country Risk Analysis within the field of International Political Economy & Development in New York. 
 

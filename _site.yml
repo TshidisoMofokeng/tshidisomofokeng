@@ -1,14 +1,23 @@
-name: "tshidiso-mofokeng"
+name: "Tshidiso Mofokeng"
+output_dir: "."
 navbar:
-  title: "Tshidiso Mofokeng"
+  title: '<div><img src="tm.png" width="35px"></img>  Tshidiso Mofokeng, Hons</div>'
   type: inverse
   right:
     - text: "Home"
+      icon: fa-home
       href: index.html
-    - text: "Content"
+    - text: "Research"
       href: content.html
-    - text: "Contact Me"
-      href: contact.html
+    - text: "CV"
+      icon: fa-file-pdf-o
+      href: TSHIDISOMOFOKENG.pdf
+    - text: "Contact me"
+      icon: fa-envelope-o
+      href: mailto:tshidiso.b.m@gmail.com 
+    - text: "LinkedIn"
+      icon: fa-linkedin
+      href: https://www.linkedin.com/in/tshidiso-mofokeng-0562861b4/       
     - text: "More"
       icon: fa-gear
       menu:
@@ -17,4 +26,15 @@ navbar:
         - text: "---------"
         - text: "Page B"
           href: page-b.html
-        
+  output:
+    html_document:
+     css: personal.css
+     includes: 
+       in_header:
+       - logo-option.html
+       - hero.html
+       - analytics.html
+     theme: yeti
+     highlight: tango
+     toc: true
+     toc_float: true
