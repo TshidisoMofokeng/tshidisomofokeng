@@ -1,10 +1,9 @@
 ---
-title: "Research Papers"
 output:   
   html_document: 
     df_print: paged
 ---
-
+# Research Papers
 
 ## Drivers of access to credit in South Africa
 
@@ -12,5 +11,21 @@ This study extends the limited evidence on access to credit in South Africa. We 
 probability of gaining access to different types of credit. We make use of recent data from the FinScopeSA 2019 Consumer Survey. We estimate a multinomial logit choice model to establish the
 influence of various covariates on the likelihood of an individual gaining access to formal, informal, and a combination of formal and informal credit with our reference category being those who have no access to credit. We find that age, income, higher educational attainment, living in Gauteng or Free State and higher LSM being statistically significant, increasing an individual likelihood for access to formal credit. Furthermore, we find that age, income, employment status, remittances, and LSM being positive and statistically significant at increasing the probability of individuals having access to the combination of formal and informal credit. On the other hand, Indian or Asian individuals, employments status and remittances lowered the likelihood of an individual having access to formal credit. Compared to being male for the combination of formal and informal credit.
 
-* [Drivers of access to credit in South Africa](content/Research_Paper.html)  
+* [Drivers of access to credit in South Africa](content/Research_Paper.pdf)  
 
+## Political Risk Analysis in Thailand
+
+Power relationships between the king, military, and political parties define Thailand's political landscape. Even though democracy has made small strides, the military continues to have a big influence, which limits the impact of political parties. Due to the economy's substantial reliance on tourism, which was negatively hit by the COVID-19 pandemic, structural inefficiencies have been highlighted which consequently reflect in the economy's sluggish growth. Although inflation rates have remained stable, events like oil price shocks and geopolitical unrest might also hinder economic growth. Effective debt management solutions are required because rising public debt raises questions about the sustainability of the economy. Long-term hazards posed by cyber security attacks highlight the need for better data security procedures. Political reforms, economic diversification, responsible fiscal management, and improved cyber security and national security capabilities are all necessary to address these issues
+
+* [Political Risk Analysis in Thailand](content/Political Risk Analysis in Thailand.pdf)
+
+
+## The Equity Investment Prospects for Brazil
+
+* [The Equity Investment Prospects for Brazil](content/The Equity Investment Prospects for Brazil.pdf)
+
+## Economic Policy Report for Emerging Countries
+
+Analyses on the independent issues such as the suitability of inflation targeting in emerging markets, the role of fiscal policy in stabilizing the economy. The effect of debt accumulation on macroeconomic stability, how participation on international capital market constraints national economic policies, and how monetary and fiscal policy can be coordinated.
+
+* [Economic Policy Report for Emerging Countries](content/Economic Policy Report.pdf)

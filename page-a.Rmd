@@ -1,5 +1,5 @@
 ---
-title: "page-a"
+title: "Coming Soon!"
 output:
   pdf_document: default
   html_document: default
@@ -9,4 +9,3 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Coming Soon!
